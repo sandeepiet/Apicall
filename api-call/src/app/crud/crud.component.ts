@@ -8,9 +8,9 @@ import { Component, OnInit } from '@angular/core';
 export class CrudComponent implements OnInit {
 
   employees = [
-    {name:"Sandeep", position:"Programer"},
-    {name:"Sandeep", position:"Programer"},
-    {name:"Sandeep", position:"Programer"}
+    {name:"Sandeep Kumar Singh", position:"Programer"},
+    {name:"Sandy Singh", position:"Web Developer"},
+    {name:"Sateesh Kr Singh", position:"Java Developer"}
   ];
   model:any={};
   model2:any={};
